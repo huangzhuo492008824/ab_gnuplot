@@ -1,0 +1,6 @@
+*.swp
+dat/*
+*.png
+server/*.pyc
+server/*.pid
+*.pyc
